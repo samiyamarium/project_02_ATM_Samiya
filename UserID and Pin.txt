@@ -1,0 +1,5 @@
+UserID=sam;
+
+Pin=1234;
+
+These are desired inputs. If you Put any other UserID or Pin, It will not proceed to bank.

@@ -1,0 +1,20 @@
+{
+  "name": "atm_sam",
+  "version": "1.0.0",
+  "description": "Takes user input for userid and  pin and then takes other features. ",
+  "main": "index.js",
+  "bin": {
+    "atm_sam": "bin/index.js"
+  },
+  "scripts": {
+    "test": "\\*this is valid*\\"
+  },
+  "keywords": [
+    "samma"
+  ],
+  "author": "samiyamarium",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
